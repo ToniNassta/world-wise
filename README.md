@@ -44,6 +44,15 @@ Authentication is only for demo purposes: it is not persisted, so refreshing the
 
 ## Secreenshots
 
+![Homepage](screenshots/demo.png)
+![Login](screenshots/login.png)
+![Cities list and map](screenshots/cities-view.png)
+![Pin on the map](screenshots/Screenshot%202026-11-23%20082640.png)
+![City details](screenshots/city-detail-view.png)
+![Adding a new city](screenshots/form-add-city.png)
+![Countries list](screenshots/countries-view.png)
+![After adding a city](screenshots/after-adding-a-city.png)
+
 ## Demo
 
 [![Watch the demo](screenshots/demo.png)](https://www.loom.com/share/06bbf80e75714917b15f6dbd78abdd9e)
