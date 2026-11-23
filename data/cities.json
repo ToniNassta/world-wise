@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Cuenca",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2026-11-02T12:46:32.956Z",
+      "notes": "new country  added using the form",
+      "position": {
+        "lat": "40.43022363450859",
+        "lng": "-1.8676757812500002"
+      },
+      "id": 73930386
+    },
+    {
+      "cityName": "Berceo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2026-11-02T13:22:13.928Z",
+      "notes": "",
+      "position": {
+        "lat": "42.27730877423709",
+        "lng": "-2.9003906250000004"
+      },
+      "id": 73930387
+    },
+    {
+      "cityName": "Urbino",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2026-11-23T06:36:40.887Z",
+      "notes": "New city!",
+      "position": {
+        "lat": "43.80281871904723",
+        "lng": "12.590332031250002"
+      },
+      "id": 73930388
+    }
+  ]
+}
